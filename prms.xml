@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="EUR-KR"?>
 <SABANG_MALL_LIST>
+    <!-- 수정 테스트 -->
     <HEADER>
         <SEND_COMPAYNY_ID>59678</SEND_COMPAYNY_ID>
         <SEND_AUTH_KEY>ZEMHAx3ZxNW88TJHG9xdA0T7H2TuST0XNdb</SEND_AUTH_KEY>
