@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>			
+<?xml version="1.0" encoding="EUC-KR"?>			
 <SABANG_GOODS_REGI>			
 	<HEADER>		
 		<SEND_COMPAYNY_ID>59678</SEND_COMPAYNY_ID>	
@@ -7,17 +7,17 @@
 		<SEND_GOODS_CD_RT>Y</SEND_GOODS_CD_RT>	
 	</HEADER>		
 	<DATA>                		
-		<GOODS_NM><![CDATA[{TEST}ÌÖåÏä§Ìä∏ÏÉÅÌíàÎ™Ö]]></GOODS_NM>      	
+		<GOODS_NM><![CDATA[{TEST}≈◊Ω∫∆ÆªÛ«∞∏Ì]]></GOODS_NM>      	
 		<COMPAYNY_GOODS_CD><![CDATA[129832]]></COMPAYNY_GOODS_CD>    	
 		<STATUS>2</STATUS>	
 		<GOODS_COST>999999999</GOODS_COST>      	
 		<GOODS_PRICE>999999999</GOODS_PRICE>      	
 		<GOODS_CONSUMER_PRICE>999999999</GOODS_CONSUMER_PRICE>      	
 		<SKU_INFO>	
-			<SKU_VALUE>Î∏îÎ£®:X^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
-			<SKU_VALUE>Î∏îÎ£®:XL^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
-			<SKU_VALUE>ÏòêÎ°ú:X^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
-			<SKU_VALUE>ÏòêÎ°ú:XL^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
+			<SKU_VALUE>∫Ì∑Á:X^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
+			<SKU_VALUE>∫Ì∑Á:XL^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
+			<SKU_VALUE>øª∑Œ:X^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
+			<SKU_VALUE>øª∑Œ:XL^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
 		</SKU_INFO>	
 	</DATA>		
 </SABANG_GOODS_REGI>
