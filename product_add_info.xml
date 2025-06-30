@@ -7,7 +7,7 @@
 		<SEND_GOODS_CD_RT>Y</SEND_GOODS_CD_RT>	
 	</HEADER>		
 	<DATA>                		
-		<GOODS_NM><![CDATA[[TEST]김서림방지 고글 수경 성인물안경 자외선차단 물샘방지 실리콘패킹 남성 여성 물안경 ODM-SWMGGL1]]></GOODS_NM>      	
+		<GOODS_NM><![CDATA[{TEST}테스트상품명]]></GOODS_NM>      	
 		<COMPAYNY_GOODS_CD><![CDATA[129832]]></COMPAYNY_GOODS_CD>    	
 		<STATUS>2</STATUS>	
 		<GOODS_COST>999999999</GOODS_COST>      	
