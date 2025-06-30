@@ -7,17 +7,11 @@
 		<SEND_GOODS_CD_RT>Y</SEND_GOODS_CD_RT>	
 	</HEADER>		
 	<DATA>                		
-		<GOODS_NM><![CDATA[{TEST}Å×½ºÆ®»óÇ°¸í]]></GOODS_NM>      	
+		<GOODS_NM><![CDATA[{TEST}í…ŒìŠ¤íŠ¸ìƒí’ˆëª…]]></GOODS_NM>      	
 		<COMPAYNY_GOODS_CD><![CDATA[129832]]></COMPAYNY_GOODS_CD>    	
 		<STATUS>2</STATUS>	
 		<GOODS_COST>999999999</GOODS_COST>      	
 		<GOODS_PRICE>999999999</GOODS_PRICE>      	
 		<GOODS_CONSUMER_PRICE>999999999</GOODS_CONSUMER_PRICE>      	
-		<SKU_INFO>	
-			<SKU_VALUE>ºí·ç:X^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
-			<SKU_VALUE>ºí·ç:XL^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
-			<SKU_VALUE>¿»·Î:X^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
-			<SKU_VALUE>¿»·Î:XL^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10</SKU_VALUE>
-		</SKU_INFO>	
 	</DATA>		
 </SABANG_GOODS_REGI>
