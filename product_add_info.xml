@@ -8,16 +8,15 @@
     </HEADER>
     <DATA>
         <GOODS_NM><![CDATA[{TEST}테스트상품명]]></GOODS_NM>
-        <COMPAYNY_GOODS_CD><![CDATA[ODM-SWMGGL1]]></COMPAYNY_GOODS_CD>
+        <COMPAYNY_GOODS_CD><![CDATA[ODM-SWMGGL1-129817]]></COMPAYNY_GOODS_CD>
         <STATUS>2</STATUS>
         <GOODS_COST>999999999</GOODS_COST>
         <GOODS_PRICE>999999999</GOODS_PRICE>
         <GOODS_CONSUMER_PRICE>999999999</GOODS_CONSUMER_PRICE>
         <SKU_INFO>
-            <SKU_VALUE>블루:X^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10^^11^^12</SKU_VALUE>
-            <SKU_VALUE>블루:XL^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10^^11^^12</SKU_VALUE>
-            <SKU_VALUE>옐로:X^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10^^11^^12</SKU_VALUE>
-            <SKU_VALUE>옐로:XL^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10^^11^^12</SKU_VALUE>
+            <SKU_VALUE>SWMGGL1_블랙^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10^^11^^12</SKU_VALUE>
+            <SKU_VALUE>SWMGGL1_블루^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10^^11^^12</SKU_VALUE>
+            <SKU_VALUE>SWMGGL1_핑크^^1^^2^^3^^4^^5^^6^^7^^8^^9^^10^^11^^12</SKU_VALUE>
         </SKU_INFO>
     </DATA>
 </SABANG_GOODS_REGI>
