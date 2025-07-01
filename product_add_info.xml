@@ -2,21 +2,21 @@
 <SABANG_GOODS_REGI>
     <HEADER>
         <SEND_COMPAYNY_ID>okokmart_kha</SEND_COMPAYNY_ID>
-        <SEND_AUTH_KEY>ZEMHAx3ZxNW88TJHG9xdA0T7H2TuST0XNdb</SEND_AUTH_KEY>
+        <SEND_AUTH_KEY>xxxx</SEND_AUTH_KEY>
         <SEND_DATE>20250630</SEND_DATE>
         <SEND_GOODS_CD_RT>Y</SEND_GOODS_CD_RT>
     </HEADER>
     <DATA>
-        <GOODS_NM><![CDATA[{TEST}≈◊Ω∫∆ÆªÛ«∞∏Ì]]></GOODS_NM>
+        <GOODS_NM><![CDATA[{TEST}ÌÖåÏä§Ìä∏ÏÉÅÌíàÎ™Ö]]></GOODS_NM>
         <COMPAYNY_GOODS_CD><![CDATA[ODM-SWMGGL1-129817]]></COMPAYNY_GOODS_CD>
         <STATUS>2</STATUS>
         <GOODS_COST>999999999</GOODS_COST>
         <GOODS_PRICE>999999999</GOODS_PRICE>
         <GOODS_CONSUMER_PRICE>999999999</GOODS_CONSUMER_PRICE>
         <SKU_INFO>
-            <SKU_VALUE>SWMGGL1_∫Ì∑¢^^10^^2^^ET_NAME^^5^^2^^N^^M^^888^^9^^3^^4^^6</SKU_VALUE>
-            <SKU_VALUE>SWMGGL1_∫Ì∑Á^^10^^2^^ET_NAME^^5^^2^^N^^M^^888^^9^^3^^4^^6</SKU_VALUE>
-            <SKU_VALUE>SWMGGL1_«Œ≈©^^10^^2^^ET_NAME^^5^^2^^N^^M^^888^^9^^3^^4^^6</SKU_VALUE>
+            <SKU_VALUE>SWMGGL1_Î∏îÎûô^^10^^2^^ET_NAME^^5^^2^^N^^M^^888^^9^^3^^4^^6</SKU_VALUE>
+            <SKU_VALUE>SWMGGL1_Î∏îÎ£®^^10^^2^^ET_NAME^^5^^2^^N^^M^^888^^9^^3^^4^^6</SKU_VALUE>
+            <SKU_VALUE>SWMGGL1_ÌïëÌÅ¨^^10^^2^^ET_NAME^^5^^2^^N^^M^^888^^9^^3^^4^^6</SKU_VALUE>
         </SKU_INFO>
     </DATA>
 </SABANG_GOODS_REGI>
